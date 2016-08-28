@@ -1,0 +1,27 @@
+*vim-tdd.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                              *vim-tdd*
+
+    1. Intro .................................................. |vim-tdd-intro|
+    2. Requirements .................................... |vim-tdd-requirements|
+    3. Usage .................................................. |vim-tdd-usage|
+    4. Licence .............................................. |vim-tdd-licence|
+===============================================================================
+1. Intro                                                        *vim-tdd-intro*
+
+Overview of plugin
+
+2. Requirements                                          *vim-tdd-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                        *vim-tdd-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                    *vim-tdd-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
